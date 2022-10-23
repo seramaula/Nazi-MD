@@ -27,13 +27,13 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': '0e92565522',
+	'https://zenzapis.xyz': 'abbfa977b497',
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6281249821048']
+global.ownernomer = "6281249821048"
+global.premium = ['6281249821048']
 global.packname = 'Sticker By'
 global.author = 'Naze Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
